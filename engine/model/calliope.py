@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from engine.capulet_engine import CapuletEngine
+from engine.capulet_engine import CapuletEngine  # CApulet search engine, a python library for building search engines
 
 
 class Calliope(CapuletEngine):
